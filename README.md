@@ -6,6 +6,7 @@ This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline 
 
 Unlike traditional ETL, this project follows the ELT approach, where raw data is first loaded into the database and then transformed using SQL.
 
+<img width="1176" height="566" alt="image" src="https://github.com/user-attachments/assets/30a5244e-12f6-4049-af4a-966bba91de88" />
 
 ## What is ELT?
 
